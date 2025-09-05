@@ -26,6 +26,7 @@ RELEASE = os.environ.get("RELEASE", False)
 extensions = [
     "sphinx.ext.intersphinx",
     "sphinx.ext.autodoc",
+    "sphinx.ext.autosummary",
     "sphinx.ext.viewcode",
     "sphinxcontrib.httpdomain",
     "sphinx_gallery.gen_gallery",

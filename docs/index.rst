@@ -24,6 +24,8 @@ Welcome to PyTorch Sphinx Theme 2 Docs
     demo/demo
     demo/lists_tables
     demo/api
+    test
+    test2
 
 .. toctree::
     :maxdepth: 3
